@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e377a339-5c52-4d68-adce-1328938371b9" name="Changes" comment="add class ToysGenerateGive">
-      <change afterPath="$PROJECT_DIR$/src/main/java/toyshopgiveaway/ToysManager.java" afterDir="false" />
+    <list default="true" id="e377a339-5c52-4d68-adce-1328938371b9" name="Changes" comment="add class ToysManager">
+      <change afterPath="$PROJECT_DIR$/db_toys_avengers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/toyshopgiveaway/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/toyshopgiveaway/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +77,26 @@
       <recent name="J:\GBУчёба\Studies\Java\Java_GB\Java_HW\Intermediate_control_work_JAVA" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="toyshopgiveaway.Main" />
+      <module name="Intermediate_control_work_JAVA.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="toyshopgiveaway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -118,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688495596368</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add class ToysManager">
+      <created>1688496058699</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688496058699</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +169,7 @@
     <MESSAGE value="format gitignore" />
     <MESSAGE value="add class Toys" />
     <MESSAGE value="add class ToysGenerateGive" />
-    <option name="LAST_COMMIT_MESSAGE" value="add class ToysGenerateGive" />
+    <MESSAGE value="add class ToysManager" />
+    <option name="LAST_COMMIT_MESSAGE" value="add class ToysManager" />
   </component>
 </project>

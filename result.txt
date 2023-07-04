@@ -1,0 +1,10 @@
+4,Thanos,35
+4,Thanos,35
+18,Hawkeye,62
+29,Hulk,71
+31,Hulk,74
+47,Nick Fury,80
+48,iron Man,87
+45,iron Man,96
+12,Thor,97
+12,Thor,97
