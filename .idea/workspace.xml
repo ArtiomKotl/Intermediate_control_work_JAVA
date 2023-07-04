@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e377a339-5c52-4d68-adce-1328938371b9" name="Changes" comment="add class Toys">
-      <change afterPath="$PROJECT_DIR$/src/main/java/toyshopgiveaway/ToysGenerate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e377a339-5c52-4d68-adce-1328938371b9" name="Changes" comment="add class ToysGenerateGive">
+      <change afterPath="$PROJECT_DIR$/src/main/java/toyshopgiveaway/ToysManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688494530848</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add class ToysGenerateGive">
+      <created>1688495596368</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688495596368</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +138,7 @@
     <MESSAGE value="add Main class" />
     <MESSAGE value="format gitignore" />
     <MESSAGE value="add class Toys" />
-    <option name="LAST_COMMIT_MESSAGE" value="add class Toys" />
+    <MESSAGE value="add class ToysGenerateGive" />
+    <option name="LAST_COMMIT_MESSAGE" value="add class ToysGenerateGive" />
   </component>
 </project>
