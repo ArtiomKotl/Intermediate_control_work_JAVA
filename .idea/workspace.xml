@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e377a339-5c52-4d68-adce-1328938371b9" name="Changes" comment="format gitignore">
-      <change afterPath="$PROJECT_DIR$/src/main/java/toyshopgiveaway/Toys.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/toyshopgiveaway/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="e377a339-5c52-4d68-adce-1328938371b9" name="Changes" comment="add class Toys">
+      <change afterPath="$PROJECT_DIR$/src/main/java/toyshopgiveaway/ToysGenerate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,25 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="2c8cb47d-fdd9-4741-a425-7cdd0b9f0ab1" />
+        <option name="url" value="https://github.com/ArtiomKotl/Intermediate_control_work_JAVA.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -87,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688494063905</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add class Toys">
+      <created>1688494530848</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688494530848</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +131,7 @@
     <MESSAGE value="Init project" />
     <MESSAGE value="add Main class" />
     <MESSAGE value="format gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="format gitignore" />
+    <MESSAGE value="add class Toys" />
+    <option name="LAST_COMMIT_MESSAGE" value="add class Toys" />
   </component>
 </project>
