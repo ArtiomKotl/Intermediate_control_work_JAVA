@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e377a339-5c52-4d68-adce-1328938371b9" name="Changes" comment="add Main class">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="e377a339-5c52-4d68-adce-1328938371b9" name="Changes" comment="format gitignore">
+      <change afterPath="$PROJECT_DIR$/src/main/java/toyshopgiveaway/Toys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/toyshopgiveaway/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="J:\GBУчёба\Studies\Java\Java_GB\Java_HW\Intermediate_control_work_JAVA" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688493932563</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="format gitignore">
+      <created>1688494063905</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688494063905</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,6 +105,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Init project" />
     <MESSAGE value="add Main class" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Main class" />
+    <MESSAGE value="format gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="format gitignore" />
   </component>
 </project>
